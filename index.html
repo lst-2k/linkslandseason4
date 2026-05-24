@@ -8,7 +8,18 @@
     <style>
         :root { --midnight: #1a237e; --cyan: #00bcd4; --ps-blue: #2196f3; --xbox-green: #4caf50; --under-red: #ff5252; --major-gold: #ffc107; --bg-tint: #f4f7fc; }
         body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg-tint); margin: 0; font-size: 14px; color: #37474f; }
-        .league-banner { background: var(--midnight); text-align: center; border-bottom: 4px solid var(--cyan); }
+        .league-banner { 
+			background: var(--midnight); 
+			text-align: center; 
+			border-bottom: 4px solid var(--cyan); 
+			width: 100%; 
+		}
+
+		.league-logo { 
+			width: 100%; 
+			height: auto; 
+			display: block; 
+		}
         .main-content { width: 100%; max-width: 1000px; margin: auto; padding-bottom: 50px; }
         
         .section-header { padding: 15px; background: #fff; border-bottom: 1px solid #cfd8dc; display: flex; justify-content: space-between; align-items: center; }
@@ -45,7 +56,9 @@
 </head>
 <body>
 
-<header class="league-banner"><img src="logo.png" alt="League Logo" style="height:80px; padding:10px;"></header>
+<header class="league-banner">
+    <img src="logo.png" alt="League Logo" class="league-logo" onerror="this.style.display='none'">
+</header>
 
 <div class="main-content">
     <div id="headerBar" class="section-header">
