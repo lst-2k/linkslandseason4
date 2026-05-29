@@ -6,20 +6,13 @@
     <title>Live Leaderboard</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        :root { --midnight: #1a237e; --cyan: #00bcd4; --ps-blue: #2196f3; --xbox-green: #4caf50; --under-red: #ff5252; --major-gold: #ffc107; --bg-tint: #f4f7fc; }
+        :root { --midnight: #1a237e; --cyan: #00bcd4; --ps-blue: #2196f3; --xbox-green: #4caf50; --steam-blue: #171D25; --under-red: #ff5252; --major-gold: #ffc107; --bg-tint: #f4f7fc; }
         body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg-tint); margin: 0; font-size: 14px; color: #37474f; }
-        .league-banner { 
-			background: var(--midnight); 
-			text-align: center; 
-			border-bottom: 4px solid var(--cyan); 
-			width: 100%; 
-		}
-
-		.league-logo { 
-			width: 100%; 
-			height: auto; 
-			display: block; 
-		}
+        
+        /* STRETCHED LOGO RE-IMPLEMENTED */
+        .league-banner { background: var(--midnight); text-align: center; border-bottom: 4px solid var(--cyan); width: 100%; }
+        .league-logo { width: 100%; height: auto; display: block; }
+        
         .main-content { width: 100%; max-width: 1000px; margin: auto; padding-bottom: 50px; }
         
         .section-header { padding: 15px; background: #fff; border-bottom: 1px solid #cfd8dc; display: flex; justify-content: space-between; align-items: center; }
@@ -35,6 +28,11 @@
         td { padding: 12px 8px; border-bottom: 1px solid #eceff1; text-align: center; }
         
         .player-col { text-align: left !important; padding-left: 20px; font-weight: 600; color: var(--midnight); }
+        
+        /* CONSOLE ICON STYLING */
+        .fa-brands { font-size: 1em; vertical-align: middle; margin-right: 6px; width: 18px; text-align: center; }
+        .fa-playstation { color: var(--ps-blue); } .fa-xbox { color: var(--xbox-green); } .fa-steam { color: var(--steam-blue); }
+        
         .to-par-cell { font-weight: 900; background: #fafafa; }
         .under-par { color: var(--under-red); }
         .even-par { color: var(--cyan); font-weight: bold; }
@@ -44,7 +42,6 @@
         
         h3 { color: var(--midnight); font-size: 1.1em; padding: 15px; margin: 0; text-transform: uppercase; letter-spacing: 1px; }
         
-        /* CONSISTENT HISTORY HEADER */
         .history-header { 
             background: #fff; padding: 12px 15px; border: 1px solid #cfd8dc; margin-top: 8px; cursor: pointer; 
             font-weight: 700; display: flex; justify-content: space-between; align-items: center; 
@@ -69,7 +66,7 @@
         <div id="sigStatus"></div>
     </div>
 
-    <h3>Tournament Results</h3>
+    <h3>Current Tournament</h3>
     <div class="scroller">
         <table>
             <thead>
@@ -110,8 +107,14 @@
 		} catch (e) { console.error(e); }
 	}
 
+    function getPlatformIcon(p) {
+        const c = (p || "").toLowerCase();
+        if (c.includes('ps')) return '<i class="fa-brands fa-playstation"></i>';
+        if (c.includes('xb')) return '<i class="fa-brands fa-xbox"></i>';
+        return '<i class="fa-brands fa-steam"></i>';
+    }
+
     function calculatePts(rank, isSig, hasBirds, hasLow) {
-        // Updated 10-point minimum floor
         let base = rank === 1 ? 200 : rank === 2 ? 175 : rank === 3 ? 150 : rank === 4 ? 100 : Math.max(10, 100 - ((rank - 4) * 10));
         if (isSig) base *= 2;
         const bVal = isSig ? 20 : 10;
@@ -137,7 +140,9 @@
             const rankLabel = isTied ? `T${firstIdx + 1}` : i + 1;
             const ptsData = calculatePts(firstIdx + 1, data.isSig, (parseInt(p.birdies) > 0), p.isLow);
             const toParDisp = p.toPar === 0 ? "E" : (p.toPar > 0 ? `+${p.toPar}` : p.toPar);
-            lBody.innerHTML += `<tr><td>${rankLabel}</td><td class="player-col">${p.name}</td><td class="to-par-cell ${p.toPar < 0 ? 'under-par' : ''}">${toParDisp}</td><td>${p.r1||'-'}</td><td>${p.r2||'-'}</td><td>${p.total}</td><td style="color:#3949ab; font-weight:bold;">${ptsData.bonusLabel}</td><td style="color:var(--midnight); font-weight:bold;">${ptsData.total}</td></tr>`;
+            
+            // Console Icon injected here
+            lBody.innerHTML += `<tr><td>${rankLabel}</td><td class="player-col">${getPlatformIcon(p.console)} ${p.name}</td><td class="to-par-cell ${p.toPar < 0 ? 'under-par' : ''}">${toParDisp}</td><td>${p.r1||'-'}</td><td>${p.r2||'-'}</td><td>${p.total}</td><td style="color:#3949ab; font-weight:bold;">${ptsData.bonusLabel}</td><td style="color:var(--midnight); font-weight:bold;">${ptsData.total}</td></tr>`;
         });
     }
 
@@ -156,7 +161,8 @@
             const accVal = p.acc || 0;
             const accDisp = accVal === 0 ? "E" : (accVal > 0 ? `+${accVal}` : accVal);
 			
-			sBody.innerHTML += `<tr><td>${currentRank}</td><td>${trendHtml}</td><td class="player-col">${p.name}</td><td>${p.eventsPlayed || 0}</td><td style="font-weight:bold; color:var(--under-red);">${p.wins || 0}</td><td class="${accVal < 0 ? 'under-par' : ''}">${accDisp}</td><td style="color:var(--midnight); font-weight:bold;">${p.points}</td></tr>`;
+			// Console Icon injected here
+			sBody.innerHTML += `<tr><td>${currentRank}</td><td>${trendHtml}</td><td class="player-col">${getPlatformIcon(p.console)} ${p.name}</td><td>${p.eventsPlayed || 0}</td><td style="font-weight:bold; color:var(--under-red);">${p.wins || 0}</td><td class="${accVal < 0 ? 'under-par' : ''}">${accDisp}</td><td style="color:var(--midnight); font-weight:bold;">${p.points}</td></tr>`;
 		});
 	}
 
