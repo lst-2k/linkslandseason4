@@ -54,151 +54,7 @@
       "toParVal": 999
     },
     {
-      "name": "GbWackerGuy",
-      "console": "Xbox",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Daveklim",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Lanzalaluna",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "SimChars1968",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "BigHen928",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Charles",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "z.dub.z",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "MrHudanini",
-      "console": "Xbox",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "CGermain",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "No Worries",
-      "console": "Xbox",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Wingisback",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Geordieboy85",
-      "console": "PS",
-      "r1": "63",
-      "r2": "79",
-      "r3": "",
-      "r4": "",
-      "total": 142,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 0
-    },
-    {
-      "name": "Arfabubble",
+      "name": "WingisBack",
       "console": "PS",
       "r1": "",
       "r2": "",
@@ -222,18 +78,6 @@
       "toParVal": 999
     },
     {
-      "name": "Hoplinkz",
-      "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
       "name": "Mr Longpole",
       "console": "Xbox",
       "r1": "",
@@ -246,7 +90,7 @@
       "toParVal": 999
     },
     {
-      "name": "Koof67",
+      "name": "Hoplinkz",
       "console": "PS",
       "r1": "",
       "r2": "",
@@ -256,6 +100,18 @@
       "birdies": "",
       "isLow": false,
       "toParVal": 999
+    },
+    {
+      "name": "Geordieboy85",
+      "console": "PS",
+      "r1": "63",
+      "r2": "79",
+      "r3": "",
+      "r4": "",
+      "total": 142,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 0
     },
     {
       "name": "Hendomedes",
@@ -306,16 +162,16 @@
       "toParVal": 4
     },
     {
-      "name": "BIGavoLEO",
+      "name": "BigavoLeo",
       "console": "Xbox",
       "r1": "78",
-      "r2": "74",
+      "r2": "84",
       "r3": "",
       "r4": "",
-      "total": 152,
+      "total": 162,
       "birdies": "",
       "isLow": false,
-      "toParVal": 10
+      "toParVal": 20
     },
     {
       "name": "Polekatt",
@@ -331,401 +187,217 @@
     }
   ],
   "backupSeason": {
-    "GbWackerGuy": {
-      "points": 1180,
-      "console": "Xbox",
-      "eventsPlayed": 7,
-      "wins": 5,
-      "acc": -23,
-      "prevRank": 2
-    },
-    "Hendomedes": {
-      "points": 1235,
-      "console": "Xbox",
-      "eventsPlayed": 9,
-      "wins": 0,
-      "acc": 25,
-      "prevRank": 6
-    },
-    "Horusphoenix": {
-      "points": 1505,
-      "console": "Xbox",
-      "eventsPlayed": 9,
-      "wins": 3,
-      "acc": -39,
-      "prevRank": 2
-    },
-    "Geordieboy85": {
-      "points": 1545,
+    "Tenbobnote": {
+      "points": 220,
       "console": "PS",
-      "eventsPlayed": 11,
+      "eventsPlayed": 1,
       "wins": 1,
-      "acc": 20,
-      "prevRank": 4
-    },
-    "Colly45x": {
-      "points": 2060,
-      "console": "Xbox",
-      "eventsPlayed": 12,
-      "wins": 2,
-      "acc": -17,
+      "acc": -10,
       "prevRank": 1
     },
-    "Hoplinkz": {
-      "points": 940,
+    "WingisBack": {
+      "points": 200,
       "console": "PS",
-      "eventsPlayed": 12,
-      "wins": 0,
-      "acc": 101,
-      "prevRank": 9
-    },
-    "z.dub.z": {
-      "points": 260,
-      "console": "PS",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": 20,
-      "prevRank": 14
-    },
-    "Hammers1man": {
-      "points": 740,
-      "console": "PC",
-      "eventsPlayed": 8,
-      "wins": 0,
-      "acc": 53,
-      "prevRank": 12
-    },
-    "Mr Longpole": {
-      "points": 930,
-      "console": "Xbox",
-      "eventsPlayed": 10,
+      "eventsPlayed": 1,
       "wins": 1,
-      "acc": 45,
-      "prevRank": 8
-    },
-    "x3offthetee": {
-      "points": 870,
-      "console": "Xbox",
-      "eventsPlayed": 11,
-      "wins": 0,
-      "acc": 64,
-      "prevRank": 10
-    },
-    "Tenbobnote": {
-      "points": 1500,
-      "console": "PS",
-      "eventsPlayed": 12,
-      "wins": 1,
-      "acc": 37,
-      "prevRank": 7
-    },
-    "Arfabubble": {
-      "points": 830,
-      "console": "PS",
-      "eventsPlayed": 11,
-      "wins": 0,
-      "acc": 95,
-      "prevRank": 11
-    },
-    "Polekatt": {
-      "points": 290,
-      "console": "PC",
-      "eventsPlayed": 11,
-      "wins": 0,
-      "acc": 245,
-      "prevRank": 14
-    },
-    "Lanzalaluna": {
-      "points": 30,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 12,
-      "prevRank": 14
-    },
-    "Daveklim": {
-      "points": 225,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 11,
-      "prevRank": 14
-    },
-    "SimChars1968": {
-      "points": 100,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 24,
-      "prevRank": 15
-    },
-    "Keep_of_Kalessin": {
-      "points": 1455,
-      "console": "PS",
-      "eventsPlayed": 8,
-      "wins": 1,
-      "acc": -24,
-      "prevRank": 3
-    },
-    "BigHen928": {
-      "points": 40,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 4,
-      "prevRank": 17
-    },
-    "Charles": {
-      "points": 10,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 14,
-      "prevRank": 17
-    },
-    "Wingisback": {
-      "points": 120,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 17,
-      "prevRank": 17
-    },
-    "MrHudanini": {
-      "points": 40,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 17,
-      "prevRank": 20
-    },
-    "CGermain": {
-      "points": 30,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 18,
-      "prevRank": 20
-    },
-    "No Worries": {
-      "points": 30,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 18,
-      "prevRank": 20
-    },
-    "Koof67": {
-      "points": 100,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 15,
-      "prevRank": 24
-    }
-  },
-  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">Lahinch Golf Club (2025-10-10 to 2025-10-16) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-5</td><td>137</td></tr><tr><td>T2</td><td>Hendomedes</td><td>+1</td><td>143</td></tr><tr><td>T2</td><td>Horusphoenix</td><td>+1</td><td>143</td></tr><tr><td>4</td><td>Geordieboy85</td><td>+2</td><td>144</td></tr><tr><td>5</td><td>Colly45x</td><td>+6</td><td>148</td></tr><tr><td>T6</td><td>Hoplinkz</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>z.dub.z</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>Hammers1man</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>10</td><td>x3offthetee</td><td>+13</td><td>155</td></tr><tr><td>11</td><td>Tenbobnote</td><td>+19</td><td>161</td></tr><tr><td>12</td><td>Arfabubble</td><td>+23</td><td>165</td></tr><tr><td>13</td><td>Polekatt</td><td>+27</td><td>169</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Royal Troon (2025-10-17 to 2025-10-23) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-4</td><td>138</td></tr><tr><td>T2</td><td>Geordieboy85</td><td>-4</td><td>138</td></tr><tr><td>4</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>5</td><td>Mr Longpole</td><td>-2</td><td>140</td></tr><tr><td>6</td><td>Horusphoenix</td><td>E</td><td>142</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>144</td></tr><tr><td>T7</td><td>z.dub.z</td><td>+2</td><td>144</td></tr><tr><td>9</td><td>Tenbobnote</td><td>+3</td><td>145</td></tr><tr><td>10</td><td>Arfabubble</td><td>+5</td><td>147</td></tr><tr><td>11</td><td>Lanzalaluna</td><td>+12</td><td>154</td></tr><tr><td>12</td><td>Polekatt</td><td>+29</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Dunvegan Cup, Old Course St Andrews (2025-10-24 to 2025-10-30) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-4</td><td>140</td></tr><tr><td>2</td><td>Colly45x</td><td>-3</td><td>141</td></tr><tr><td>3</td><td>Horusphoenix</td><td>-1</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+1</td><td>145</td></tr><tr><td>5</td><td>Arfabubble</td><td>+6</td><td>150</td></tr><tr><td>6</td><td>Tenbobnote</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>x3offthetee</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>Hammers1man</td><td>+16</td><td>160</td></tr><tr><td>9</td><td>Daveklim</td><td>+17</td><td>161</td></tr><tr><td>T10</td><td>Hoplinkz</td><td>+20</td><td>164</td></tr><tr><td>T10</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">BC Awareness Open, Turnberry Ailsa (2025-10-31 to 2025-11-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-3</td><td>139</td></tr><tr><td>T2</td><td>Colly45x</td><td>-2</td><td>140</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-2</td><td>140</td></tr><tr><td>4</td><td>Tenbobnote</td><td>+3</td><td>145</td></tr><tr><td>T5</td><td>Geordieboy85</td><td>+5</td><td>147</td></tr><tr><td>T5</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>7</td><td>x3offthetee</td><td>+6</td><td>148</td></tr><tr><td>8</td><td>Arfabubble</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>Hoplinkz</td><td>+13</td><td>155</td></tr><tr><td>T10</td><td>GbWackerGuy</td><td>+21</td><td>163</td></tr><tr><td>T10</td><td>SimChars1968</td><td>+21</td><td>163</td></tr><tr><td>12</td><td>Mr Longpole</td><td>+25</td><td>167</td></tr><tr><td>13</td><td>Polekatt</td><td>+29</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Bass Rock Up, North Berwick West Links (2025-11-07 to 2025-11-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>T2</td><td>Daveklim</td><td>-6</td><td>136</td></tr><tr><td>T2</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-5</td><td>137</td></tr><tr><td>T4</td><td>GbWackerGuy</td><td>-5</td><td>137</td></tr><tr><td>6</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>7</td><td>Tenbobnote</td><td>+2</td><td>144</td></tr><tr><td>T8</td><td>Geordieboy85</td><td>+3</td><td>145</td></tr><tr><td>T8</td><td>SimChars1968</td><td>+3</td><td>145</td></tr><tr><td>10</td><td>BigHen928</td><td>+4</td><td>146</td></tr><tr><td>T11</td><td>Hammers1man</td><td>+6</td><td>148</td></tr><tr><td>T11</td><td>Mr Longpole</td><td>+6</td><td>148</td></tr><tr><td>13</td><td>Polekatt</td><td>+10</td><td>152</td></tr><tr><td>14</td><td>Arfabubble</td><td>+12</td><td>154</td></tr><tr><td>15</td><td>Charles</td><td>+14</td><td>156</td></tr><tr><td>16</td><td>Hoplinkz</td><td>+23</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Gobbler Invitational, Slain Point Links (2025-11-14 to 2025-11-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-15</td><td>127</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-6</td><td>136</td></tr><tr><td>T3</td><td>Tenbobnote</td><td>-6</td><td>136</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>-5</td><td>137</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>T7</td><td>Colly45x</td><td>+4</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T10</td><td>z.dub.z</td><td>+9</td><td>151</td></tr><tr><td>T10</td><td>Geordieboy85</td><td>+9</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+13</td><td>155</td></tr><tr><td>13</td><td>Arfabubble</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Caesar Challenge, Royal Cinque Ports (2025-11-21 to 2025-11-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>GbWackerGuy</td><td>-6</td><td>138</td></tr><tr><td>T1</td><td>Geordieboy85</td><td>-6</td><td>138</td></tr><tr><td>3</td><td>Colly45x</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Tenbobnote</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Mr Longpole</td><td>-1</td><td>143</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>z.dub.z</td><td>+2</td><td>146</td></tr><tr><td>10</td><td>Hendomedes</td><td>+8</td><td>152</td></tr><tr><td>11</td><td>Arfabubble</td><td>+10</td><td>154</td></tr><tr><td>12</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Jack Daniels Memorial, Camusaig (2025-11-28 to 2025-12-04) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-9</td><td>135</td></tr><tr><td>2</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T3</td><td>Geordieboy85</td><td>E</td><td>144</td></tr><tr><td>T3</td><td>Tenbobnote</td><td>E</td><td>144</td></tr><tr><td>T3</td><td>Hendomedes</td><td>E</td><td>144</td></tr><tr><td>6</td><td>Arfabubble</td><td>+2</td><td>146</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>147</td></tr><tr><td>8</td><td>Hoplinkz</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+6</td><td>150</td></tr><tr><td>10</td><td>x3offthetee</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+16</td><td>160</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Cowd Castle Cup, Ardglass N Ireland (2025-12-05 to 2025-12-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>132</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-5</td><td>137</td></tr><tr><td>3</td><td>Arfabubble</td><td>-4</td><td>138</td></tr><tr><td>4</td><td>Keep_of_Kalessin</td><td>-2</td><td>140</td></tr><tr><td>5</td><td>Geordieboy85</td><td>-1</td><td>141</td></tr><tr><td>6</td><td>Tenbobnote</td><td>+1</td><td>143</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>T8</td><td>Colly45x</td><td>+4</td><td>146</td></tr><tr><td>T8</td><td>Hendomedes</td><td>+4</td><td>146</td></tr><tr><td>10</td><td>x3offthetee</td><td>+6</td><td>148</td></tr><tr><td>11</td><td>Hoplinkz</td><td>+16</td><td>158</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">St Nicholas Invitational, Paraparaumu Beach (2025-12-12 to 2025-12-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>2</td><td>Keep_of_Kalessin</td><td>-8</td><td>134</td></tr><tr><td>3</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>4</td><td>Horusphoenix</td><td>-5</td><td>137</td></tr><tr><td>5</td><td>Hoplinkz</td><td>-2</td><td>140</td></tr><tr><td>6</td><td>Wingisback</td><td>+1</td><td>143</td></tr><tr><td>T7</td><td>Geordieboy85</td><td>+4</td><td>146</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>Tenbobnote</td><td>+8</td><td>150</td></tr><tr><td>10</td><td>MrHudanini</td><td>+17</td><td>159</td></tr><tr><td>T11</td><td>Polekatt</td><td>+18</td><td>160</td></tr><tr><td>T11</td><td>CGermain</td><td>+18</td><td>160</td></tr><tr><td>T11</td><td>No Worries</td><td>+18</td><td>160</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Arctic Chill, Jotenheim (2025-12-19 to 2025-12-25) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>2</td><td>Keep_of_Kalessin</td><td>-3</td><td>141</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>T3</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>5</td><td>Tenbobnote</td><td>+4</td><td>148</td></tr><tr><td>T6</td><td>Colly45x</td><td>+5</td><td>149</td></tr><tr><td>T6</td><td>Arfabubble</td><td>+5</td><td>149</td></tr><tr><td>8</td><td>Geordieboy85</td><td>+6</td><td>150</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Wingisback</td><td>+16</td><td>160</td></tr><tr><td>11</td><td>Polekatt</td><td>+27</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Royal St Georges (2025-12-26 to 2026-01-01) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-1</td><td>139</td></tr><tr><td>T1</td><td>Colly45x</td><td>-1</td><td>139</td></tr><tr><td>3</td><td>Geordieboy85</td><td>+2</td><td>142</td></tr><tr><td>4</td><td>x3offthetee</td><td>+3</td><td>143</td></tr><tr><td>5</td><td>Arfabubble</td><td>+10</td><td>150</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>151</td></tr><tr><td>T6</td><td>Hoplinkz</td><td>+11</td><td>151</td></tr><tr><td>8</td><td>Hammers1man</td><td>+12</td><td>152</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+14</td><td>154</td></tr><tr><td>10</td><td>Koof67</td><td>+15</td><td>155</td></tr><tr><td>11</td><td>Hendomedes</td><td>+23</td><td>163</td></tr><tr><td>12</td><td>Polekatt</td><td>+33</td><td>173</td></tr></table></div>",
-  "date": "2026-05-29 to 2026-06-04",
-  "season": {
-    "GbWackerGuy": {
-      "points": 1180,
-      "console": "Xbox",
-      "eventsPlayed": 7,
-      "wins": 5,
-      "acc": -23,
-      "prevRank": 2
-    },
-    "Hendomedes": {
-      "points": 1335,
-      "console": "Xbox",
-      "eventsPlayed": 10,
-      "wins": 0,
-      "acc": 25,
-      "prevRank": 6
-    },
-    "Horusphoenix": {
-      "points": 1690,
-      "console": "Xbox",
-      "eventsPlayed": 10,
-      "wins": 3,
-      "acc": -53,
-      "prevRank": 3
-    },
-    "Geordieboy85": {
-      "points": 1645,
-      "console": "PS",
-      "eventsPlayed": 12,
-      "wins": 1,
-      "acc": 20,
-      "prevRank": 2
-    },
-    "Colly45x": {
-      "points": 2270,
-      "console": "Xbox",
-      "eventsPlayed": 13,
-      "wins": 3,
-      "acc": -34,
+      "acc": -10,
       "prevRank": 1
     },
-    "Hoplinkz": {
-      "points": 940,
-      "console": "PS",
-      "eventsPlayed": 12,
-      "wins": 0,
-      "acc": 101,
-      "prevRank": 9
-    },
-    "z.dub.z": {
-      "points": 260,
-      "console": "PS",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": 20,
-      "prevRank": 14
-    },
-    "Hammers1man": {
-      "points": 810,
-      "console": "PC",
-      "eventsPlayed": 9,
-      "wins": 0,
-      "acc": 56,
-      "prevRank": 12
-    },
-    "Mr Longpole": {
-      "points": 930,
+    "Horusphoenix": {
+      "points": 200,
       "console": "Xbox",
-      "eventsPlayed": 10,
+      "eventsPlayed": 1,
       "wins": 1,
-      "acc": 45,
-      "prevRank": 8
+      "acc": -10,
+      "prevRank": 1
     },
-    "x3offthetee": {
-      "points": 950,
+    "Colly45x": {
+      "points": 100,
       "console": "Xbox",
-      "eventsPlayed": 12,
-      "wins": 0,
-      "acc": 66,
-      "prevRank": 10
-    },
-    "Tenbobnote": {
-      "points": 1500,
-      "console": "PS",
-      "eventsPlayed": 12,
-      "wins": 1,
-      "acc": 37,
-      "prevRank": 7
-    },
-    "Arfabubble": {
-      "points": 830,
-      "console": "PS",
-      "eventsPlayed": 11,
-      "wins": 0,
-      "acc": 95,
-      "prevRank": 11
-    },
-    "Polekatt": {
-      "points": 330,
-      "console": "PC",
-      "eventsPlayed": 12,
-      "wins": 0,
-      "acc": 269,
-      "prevRank": 13
-    },
-    "Lanzalaluna": {
-      "points": 30,
-      "console": "PS",
       "eventsPlayed": 1,
       "wins": 0,
-      "acc": 12,
-      "prevRank": 14
-    },
-    "Daveklim": {
-      "points": 225,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 11,
-      "prevRank": 14
-    },
-    "SimChars1968": {
-      "points": 100,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 24,
-      "prevRank": 15
+      "acc": -8,
+      "prevRank": 1
     },
     "Keep_of_Kalessin": {
-      "points": 1455,
-      "console": "PS",
-      "eventsPlayed": 8,
-      "wins": 1,
-      "acc": -24,
-      "prevRank": 3
-    },
-    "BigHen928": {
-      "points": 40,
+      "points": 90,
       "console": "PS",
       "eventsPlayed": 1,
       "wins": 0,
-      "acc": 4,
-      "prevRank": 17
-    },
-    "Charles": {
-      "points": 10,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 14,
-      "prevRank": 17
-    },
-    "Wingisback": {
-      "points": 120,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 17,
-      "prevRank": 17
-    },
-    "MrHudanini": {
-      "points": 40,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 17,
-      "prevRank": 20
-    },
-    "CGermain": {
-      "points": 30,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 18,
-      "prevRank": 20
-    },
-    "No Worries": {
-      "points": 30,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 18,
-      "prevRank": 20
-    },
-    "Koof67": {
-      "points": 100,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 15,
-      "prevRank": 24
+      "acc": -6,
+      "prevRank": 1
     },
     "Rendallio": {
-      "points": 150,
+      "points": 90,
       "console": "PS",
       "eventsPlayed": 1,
       "wins": 0,
-      "acc": -9,
-      "prevRank": 25
+      "acc": -6,
+      "prevRank": 1
+    },
+    "x3offthetee": {
+      "points": 70,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -5,
+      "prevRank": 1
+    },
+    "Mr Longpole": {
+      "points": 70,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -5,
+      "prevRank": 1
+    },
+    "Hoplinkz": {
+      "points": 50,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -1,
+      "prevRank": 1
+    },
+    "BigavoLeo": {
+      "points": 40,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 4,
+      "prevRank": 1
+    },
+    "Hammers1man": {
+      "points": 30,
+      "console": "PC",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 5,
+      "prevRank": 1
+    },
+    "Polekatt": {
+      "points": 20,
+      "console": "PC",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 22,
+      "prevRank": 1
+    }
+  },
+  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div>",
+  "date": "2026-05-29 to 2026-06-04",
+  "season": {
+    "Tenbobnote": {
+      "points": 220,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 1,
+      "acc": -10,
+      "prevRank": 1
+    },
+    "WingisBack": {
+      "points": 200,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 1,
+      "acc": -10,
+      "prevRank": 1
+    },
+    "Horusphoenix": {
+      "points": 385,
+      "console": "Xbox",
+      "eventsPlayed": 2,
+      "wins": 1,
+      "acc": -24,
+      "prevRank": 3
+    },
+    "Colly45x": {
+      "points": 310,
+      "console": "Xbox",
+      "eventsPlayed": 2,
+      "wins": 1,
+      "acc": -25,
+      "prevRank": 4
+    },
+    "Keep_of_Kalessin": {
+      "points": 90,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -6,
+      "prevRank": 1
+    },
+    "Rendallio": {
+      "points": 240,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": -15,
+      "prevRank": 6
+    },
+    "x3offthetee": {
+      "points": 150,
+      "console": "Xbox",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": -3,
+      "prevRank": 7
+    },
+    "Mr Longpole": {
+      "points": 70,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -5,
+      "prevRank": 1
+    },
+    "Hoplinkz": {
+      "points": 50,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": -1,
+      "prevRank": 1
+    },
+    "BigavoLeo": {
+      "points": 90,
+      "console": "Xbox",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 24,
+      "prevRank": 10
+    },
+    "Hammers1man": {
+      "points": 100,
+      "console": "PC",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 8,
+      "prevRank": 11
+    },
+    "Polekatt": {
+      "points": 60,
+      "console": "PC",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 46,
+      "prevRank": 12
+    },
+    "Geordieboy85": {
+      "points": 100,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 0,
+      "prevRank": 13
+    },
+    "Hendomedes": {
+      "points": 100,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 0,
+      "prevRank": 13
     },
     "Chris74Jones": {
       "points": 60,
@@ -733,16 +405,8 @@
       "eventsPlayed": 1,
       "wins": 0,
       "acc": 4,
-      "prevRank": 25
-    },
-    "BIGavoLEO": {
-      "points": 50,
-      "console": "Xbox",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 10,
-      "prevRank": 25
+      "prevRank": 13
     }
   },
-  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">Lahinch Golf Club (2025-10-10 to 2025-10-16) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-5</td><td>137</td></tr><tr><td>T2</td><td>Hendomedes</td><td>+1</td><td>143</td></tr><tr><td>T2</td><td>Horusphoenix</td><td>+1</td><td>143</td></tr><tr><td>4</td><td>Geordieboy85</td><td>+2</td><td>144</td></tr><tr><td>5</td><td>Colly45x</td><td>+6</td><td>148</td></tr><tr><td>T6</td><td>Hoplinkz</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>z.dub.z</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>Hammers1man</td><td>+7</td><td>149</td></tr><tr><td>T6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>10</td><td>x3offthetee</td><td>+13</td><td>155</td></tr><tr><td>11</td><td>Tenbobnote</td><td>+19</td><td>161</td></tr><tr><td>12</td><td>Arfabubble</td><td>+23</td><td>165</td></tr><tr><td>13</td><td>Polekatt</td><td>+27</td><td>169</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Royal Troon (2025-10-17 to 2025-10-23) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-9</td><td>133</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-4</td><td>138</td></tr><tr><td>T2</td><td>Geordieboy85</td><td>-4</td><td>138</td></tr><tr><td>4</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>5</td><td>Mr Longpole</td><td>-2</td><td>140</td></tr><tr><td>6</td><td>Horusphoenix</td><td>E</td><td>142</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>144</td></tr><tr><td>T7</td><td>z.dub.z</td><td>+2</td><td>144</td></tr><tr><td>9</td><td>Tenbobnote</td><td>+3</td><td>145</td></tr><tr><td>10</td><td>Arfabubble</td><td>+5</td><td>147</td></tr><tr><td>11</td><td>Lanzalaluna</td><td>+12</td><td>154</td></tr><tr><td>12</td><td>Polekatt</td><td>+29</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Dunvegan Cup, Old Course St Andrews (2025-10-24 to 2025-10-30) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-4</td><td>140</td></tr><tr><td>2</td><td>Colly45x</td><td>-3</td><td>141</td></tr><tr><td>3</td><td>Horusphoenix</td><td>-1</td><td>143</td></tr><tr><td>4</td><td>Hendomedes</td><td>+1</td><td>145</td></tr><tr><td>5</td><td>Arfabubble</td><td>+6</td><td>150</td></tr><tr><td>6</td><td>Tenbobnote</td><td>+7</td><td>151</td></tr><tr><td>7</td><td>x3offthetee</td><td>+11</td><td>155</td></tr><tr><td>8</td><td>Hammers1man</td><td>+16</td><td>160</td></tr><tr><td>9</td><td>Daveklim</td><td>+17</td><td>161</td></tr><tr><td>T10</td><td>Hoplinkz</td><td>+20</td><td>164</td></tr><tr><td>T10</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">BC Awareness Open, Turnberry Ailsa (2025-10-31 to 2025-11-06) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-3</td><td>139</td></tr><tr><td>T2</td><td>Colly45x</td><td>-2</td><td>140</td></tr><tr><td>T2</td><td>Hendomedes</td><td>-2</td><td>140</td></tr><tr><td>4</td><td>Tenbobnote</td><td>+3</td><td>145</td></tr><tr><td>T5</td><td>Geordieboy85</td><td>+5</td><td>147</td></tr><tr><td>T5</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>7</td><td>x3offthetee</td><td>+6</td><td>148</td></tr><tr><td>8</td><td>Arfabubble</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>Hoplinkz</td><td>+13</td><td>155</td></tr><tr><td>T10</td><td>GbWackerGuy</td><td>+21</td><td>163</td></tr><tr><td>T10</td><td>SimChars1968</td><td>+21</td><td>163</td></tr><tr><td>12</td><td>Mr Longpole</td><td>+25</td><td>167</td></tr><tr><td>13</td><td>Polekatt</td><td>+29</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Bass Rock Up, North Berwick West Links (2025-11-07 to 2025-11-13) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>T2</td><td>Daveklim</td><td>-6</td><td>136</td></tr><tr><td>T2</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-5</td><td>137</td></tr><tr><td>T4</td><td>GbWackerGuy</td><td>-5</td><td>137</td></tr><tr><td>6</td><td>x3offthetee</td><td>-3</td><td>139</td></tr><tr><td>7</td><td>Tenbobnote</td><td>+2</td><td>144</td></tr><tr><td>T8</td><td>Geordieboy85</td><td>+3</td><td>145</td></tr><tr><td>T8</td><td>SimChars1968</td><td>+3</td><td>145</td></tr><tr><td>10</td><td>BigHen928</td><td>+4</td><td>146</td></tr><tr><td>T11</td><td>Hammers1man</td><td>+6</td><td>148</td></tr><tr><td>T11</td><td>Mr Longpole</td><td>+6</td><td>148</td></tr><tr><td>13</td><td>Polekatt</td><td>+10</td><td>152</td></tr><tr><td>14</td><td>Arfabubble</td><td>+12</td><td>154</td></tr><tr><td>15</td><td>Charles</td><td>+14</td><td>156</td></tr><tr><td>16</td><td>Hoplinkz</td><td>+23</td><td>165</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Gobbler Invitational, Slain Point Links (2025-11-14 to 2025-11-20) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWackerGuy</td><td>-15</td><td>127</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-6</td><td>136</td></tr><tr><td>T3</td><td>Tenbobnote</td><td>-6</td><td>136</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>-5</td><td>137</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>T7</td><td>Colly45x</td><td>+4</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T10</td><td>z.dub.z</td><td>+9</td><td>151</td></tr><tr><td>T10</td><td>Geordieboy85</td><td>+9</td><td>151</td></tr><tr><td>12</td><td>Polekatt</td><td>+13</td><td>155</td></tr><tr><td>13</td><td>Arfabubble</td><td>+17</td><td>159</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Caesar Challenge, Royal Cinque Ports (2025-11-21 to 2025-11-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>GbWackerGuy</td><td>-6</td><td>138</td></tr><tr><td>T1</td><td>Geordieboy85</td><td>-6</td><td>138</td></tr><tr><td>3</td><td>Colly45x</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Tenbobnote</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Keep_of_Kalessin</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Mr Longpole</td><td>-1</td><td>143</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>z.dub.z</td><td>+2</td><td>146</td></tr><tr><td>10</td><td>Hendomedes</td><td>+8</td><td>152</td></tr><tr><td>11</td><td>Arfabubble</td><td>+10</td><td>154</td></tr><tr><td>12</td><td>Polekatt</td><td>+23</td><td>167</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Jack Daniels Memorial, Camusaig (2025-11-28 to 2025-12-04) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-9</td><td>135</td></tr><tr><td>2</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T3</td><td>Geordieboy85</td><td>E</td><td>144</td></tr><tr><td>T3</td><td>Tenbobnote</td><td>E</td><td>144</td></tr><tr><td>T3</td><td>Hendomedes</td><td>E</td><td>144</td></tr><tr><td>6</td><td>Arfabubble</td><td>+2</td><td>146</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>147</td></tr><tr><td>8</td><td>Hoplinkz</td><td>+4</td><td>148</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+6</td><td>150</td></tr><tr><td>10</td><td>x3offthetee</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+16</td><td>160</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Cowd Castle Cup, Ardglass N Ireland (2025-12-05 to 2025-12-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Mr Longpole</td><td>-10</td><td>132</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-5</td><td>137</td></tr><tr><td>3</td><td>Arfabubble</td><td>-4</td><td>138</td></tr><tr><td>4</td><td>Keep_of_Kalessin</td><td>-2</td><td>140</td></tr><tr><td>5</td><td>Geordieboy85</td><td>-1</td><td>141</td></tr><tr><td>6</td><td>Tenbobnote</td><td>+1</td><td>143</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>T8</td><td>Colly45x</td><td>+4</td><td>146</td></tr><tr><td>T8</td><td>Hendomedes</td><td>+4</td><td>146</td></tr><tr><td>10</td><td>x3offthetee</td><td>+6</td><td>148</td></tr><tr><td>11</td><td>Hoplinkz</td><td>+16</td><td>158</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">St Nicholas Invitational, Paraparaumu Beach (2025-12-12 to 2025-12-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-10</td><td>132</td></tr><tr><td>2</td><td>Keep_of_Kalessin</td><td>-8</td><td>134</td></tr><tr><td>3</td><td>Mr Longpole</td><td>-7</td><td>135</td></tr><tr><td>4</td><td>Horusphoenix</td><td>-5</td><td>137</td></tr><tr><td>5</td><td>Hoplinkz</td><td>-2</td><td>140</td></tr><tr><td>6</td><td>Wingisback</td><td>+1</td><td>143</td></tr><tr><td>T7</td><td>Geordieboy85</td><td>+4</td><td>146</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>Tenbobnote</td><td>+8</td><td>150</td></tr><tr><td>10</td><td>MrHudanini</td><td>+17</td><td>159</td></tr><tr><td>T11</td><td>Polekatt</td><td>+18</td><td>160</td></tr><tr><td>T11</td><td>CGermain</td><td>+18</td><td>160</td></tr><tr><td>T11</td><td>No Worries</td><td>+18</td><td>160</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Arctic Chill, Jotenheim (2025-12-19 to 2025-12-25) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>2</td><td>Keep_of_Kalessin</td><td>-3</td><td>141</td></tr><tr><td>T3</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>T3</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>5</td><td>Tenbobnote</td><td>+4</td><td>148</td></tr><tr><td>T6</td><td>Colly45x</td><td>+5</td><td>149</td></tr><tr><td>T6</td><td>Arfabubble</td><td>+5</td><td>149</td></tr><tr><td>8</td><td>Geordieboy85</td><td>+6</td><td>150</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Wingisback</td><td>+16</td><td>160</td></tr><tr><td>11</td><td>Polekatt</td><td>+27</td><td>171</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Royal St Georges (2025-12-26 to 2026-01-01) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-1</td><td>139</td></tr><tr><td>T1</td><td>Colly45x</td><td>-1</td><td>139</td></tr><tr><td>3</td><td>Geordieboy85</td><td>+2</td><td>142</td></tr><tr><td>4</td><td>x3offthetee</td><td>+3</td><td>143</td></tr><tr><td>5</td><td>Arfabubble</td><td>+10</td><td>150</td></tr><tr><td>T6</td><td>Keep_of_Kalessin</td><td>+11</td><td>151</td></tr><tr><td>T6</td><td>Hoplinkz</td><td>+11</td><td>151</td></tr><tr><td>8</td><td>Hammers1man</td><td>+12</td><td>152</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+14</td><td>154</td></tr><tr><td>10</td><td>Koof67</td><td>+15</td><td>155</td></tr><tr><td>11</td><td>Hendomedes</td><td>+23</td><td>163</td></tr><tr><td>12</td><td>Polekatt</td><td>+33</td><td>173</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BIGavoLEO</td><td>+10</td><td>152</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div>"
+  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BigavoLeo</td><td>+20</td><td>162</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div>"
 }
