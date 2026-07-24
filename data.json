@@ -1,45 +1,57 @@
 {
-  "venue": "The Hundrik Shootout, Tres Cypress GC",
-  "startDate": "2026-07-10",
-  "endDate": "2026-07-16",
-  "par": 71,
-  "isSig": false,
+  "venue": "The Claret Jug, Royal Birkdale",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-23",
+  "par": 70,
+  "isSig": true,
   "players": [
     {
       "name": "GbWaCkErGuY",
       "console": "Xbox",
-      "r1": "69",
-      "r2": "71",
+      "r1": "64",
+      "r2": "67",
       "r3": "",
       "r4": "",
-      "total": 140,
-      "birdies": "11",
+      "total": 131,
+      "birdies": "10",
       "isLow": true,
-      "toParVal": -2
+      "toParVal": -9
     },
     {
       "name": "WingisBack",
       "console": "PS",
-      "r1": "69",
-      "r2": "73",
+      "r1": "68",
+      "r2": "66",
       "r3": "",
       "r4": "",
-      "total": 142,
+      "total": 134,
       "birdies": "",
-      "isLow": true,
-      "toParVal": 0
+      "isLow": false,
+      "toParVal": -6
     },
     {
       "name": "Colly45x",
       "console": "Xbox",
-      "r1": "",
-      "r2": "",
+      "r1": "68",
+      "r2": "67",
       "r3": "",
       "r4": "",
-      "total": 0,
+      "total": 135,
       "birdies": "",
       "isLow": false,
-      "toParVal": 999
+      "toParVal": -5
+    },
+    {
+      "name": "Horusphoenix",
+      "console": "Xbox",
+      "r1": "70",
+      "r2": "66",
+      "r3": "",
+      "r4": "",
+      "total": 136,
+      "birdies": "10",
+      "isLow": false,
+      "toParVal": -4
     },
     {
       "name": "Bullfrog_Leg",
@@ -54,44 +66,8 @@
       "toParVal": 999
     },
     {
-      "name": "Hendomedes",
-      "console": "Xbox",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
       "name": "Rendallio",
       "console": "PS",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Hammers1man",
-      "console": "PC",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
-      "name": "Horusphoenix",
-      "console": "Xbox",
       "r1": "",
       "r2": "",
       "r3": "",
@@ -186,18 +162,6 @@
       "toParVal": 999
     },
     {
-      "name": "BigavoLeo",
-      "console": "Xbox",
-      "r1": "",
-      "r2": "",
-      "r3": "",
-      "r4": "",
-      "total": 0,
-      "birdies": "",
-      "isLow": false,
-      "toParVal": 999
-    },
-    {
       "name": "Polekatt",
       "console": "PC",
       "r1": "",
@@ -210,187 +174,91 @@
       "toParVal": 999
     },
     {
-      "name": "x3offthetee",
-      "console": "Xbox",
-      "r1": "71",
-      "r2": "87",
+      "name": "Cockatoos",
+      "console": "PC",
+      "r1": "74",
+      "r2": "66",
       "r3": "",
       "r4": "",
-      "total": 158,
+      "total": 140,
       "birdies": "",
       "isLow": false,
-      "toParVal": 16
+      "toParVal": 0
+    },
+    {
+      "name": "Hendomedes",
+      "console": "Xbox",
+      "r1": "70",
+      "r2": "72",
+      "r3": "",
+      "r4": "",
+      "total": 142,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 2
+    },
+    {
+      "name": "x3offthetee",
+      "console": "Xbox",
+      "r1": "74",
+      "r2": "69",
+      "r3": "",
+      "r4": "",
+      "total": 143,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 3
     },
     {
       "name": "Guillame_Moreau",
       "console": "PC",
-      "r1": "79",
-      "r2": "90",
+      "r1": "73",
+      "r2": "73",
       "r3": "",
       "r4": "",
-      "total": 169,
+      "total": 146,
       "birdies": "",
       "isLow": false,
-      "toParVal": 27
+      "toParVal": 6
+    },
+    {
+      "name": "Hammers1man",
+      "console": "PC",
+      "r1": "76",
+      "r2": "71",
+      "r3": "",
+      "r4": "",
+      "total": 147,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 7
+    },
+    {
+      "name": "BigavoLeo",
+      "console": "Xbox",
+      "r1": "74",
+      "r2": "74",
+      "r3": "",
+      "r4": "",
+      "total": 148,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 8
+    },
+    {
+      "name": "Demonondalinks",
+      "console": "Xbox",
+      "r1": "77",
+      "r2": "78",
+      "r3": "",
+      "r4": "",
+      "total": 155,
+      "birdies": "",
+      "isLow": false,
+      "toParVal": 15
     }
   ],
   "backupSeason": {
-    "Tenbobnote": {
-      "points": 220,
-      "console": "PS",
-      "eventsPlayed": 1,
-      "wins": 1,
-      "acc": -10,
-      "prevRank": 1
-    },
-    "WingisBack": {
-      "points": 735,
-      "console": "PS",
-      "eventsPlayed": 4,
-      "wins": 2,
-      "acc": -32,
-      "prevRank": 5
-    },
-    "Horusphoenix": {
-      "points": 895,
-      "console": "Xbox",
-      "eventsPlayed": 4,
-      "wins": 2,
-      "acc": -40,
-      "prevRank": 1
-    },
-    "Colly45x": {
-      "points": 1185,
-      "console": "Xbox",
-      "eventsPlayed": 6,
-      "wins": 2,
-      "acc": -55,
-      "prevRank": 2
-    },
-    "Keep_of_Kalessin": {
-      "points": 550,
-      "console": "PS",
-      "eventsPlayed": 5,
-      "wins": 1,
-      "acc": 5,
-      "prevRank": 7
-    },
-    "Rendallio": {
-      "points": 1120,
-      "console": "PS",
-      "eventsPlayed": 6,
-      "wins": 0,
-      "acc": -47,
-      "prevRank": 2
-    },
-    "x3offthetee": {
-      "points": 675,
-      "console": "Xbox",
-      "eventsPlayed": 7,
-      "wins": 0,
-      "acc": 2,
-      "prevRank": 6
-    },
-    "Mr Longpole": {
-      "points": 200,
-      "console": "Xbox",
-      "eventsPlayed": 3,
-      "wins": 0,
-      "acc": 7,
-      "prevRank": 14
-    },
-    "Hoplinkz": {
-      "points": 480,
-      "console": "PS",
-      "eventsPlayed": 6,
-      "wins": 0,
-      "acc": 8,
-      "prevRank": 10
-    },
-    "BigavoLeo": {
-      "points": 200,
-      "console": "Xbox",
-      "eventsPlayed": 5,
-      "wins": 0,
-      "acc": 87,
-      "prevRank": 16
-    },
-    "Hammers1man": {
-      "points": 220,
-      "console": "PC",
-      "eventsPlayed": 4,
-      "wins": 0,
-      "acc": 7,
-      "prevRank": 15
-    },
-    "Polekatt": {
-      "points": 250,
-      "console": "PC",
-      "eventsPlayed": 6,
-      "wins": 0,
-      "acc": 115,
-      "prevRank": 14
-    },
-    "Geordieboy85": {
-      "points": 170,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": -4,
-      "prevRank": 8
-    },
-    "Hendomedes": {
-      "points": 680,
-      "console": "Xbox",
-      "eventsPlayed": 5,
-      "wins": 0,
-      "acc": -9,
-      "prevRank": 4
-    },
-    "Chris74Jones": {
-      "points": 130,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 13,
-      "prevRank": 16
-    },
-    "Bullfrog_Leg": {
-      "points": 530,
-      "console": "PS",
-      "eventsPlayed": 5,
-      "wins": 0,
-      "acc": -12,
-      "prevRank": 8
-    },
-    "SlimmerShady": {
-      "points": 80,
-      "console": "PS",
-      "eventsPlayed": 2,
-      "wins": 0,
-      "acc": 23,
-      "prevRank": 18
-    },
-    "GbWaCkErGuY": {
-      "points": 420,
-      "console": "Xbox",
-      "eventsPlayed": 2,
-      "wins": 1,
-      "acc": -17,
-      "prevRank": 11
-    },
-    "Guillame_Moreau": {
-      "points": 40,
-      "console": "PC",
-      "eventsPlayed": 1,
-      "wins": 0,
-      "acc": 17,
-      "prevRank": 19
-    }
-  },
-  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BigavoLeo</td><td>+20</td><td>162</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Burns Cup, Kilmarnock (Barassie Links) G.C (2026-06-05 to 2026-06-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-10</td><td>134</td></tr><tr><td>2</td><td>WingisBack</td><td>-9</td><td>135</td></tr><tr><td>3</td><td>Rendallio</td><td>-8</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T4</td><td>Hoplinkz</td><td>-7</td><td>137</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-5</td><td>139</td></tr><tr><td>7</td><td>Geordieboy85</td><td>-4</td><td>140</td></tr><tr><td>8</td><td>x3offthetee</td><td>E</td><td>144</td></tr><tr><td>9</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+14</td><td>158</td></tr><tr><td>12</td><td>BigavoLeo</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Jakoby Joust, Carnoustie (2026-06-12 to 2026-06-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>3</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Hendomedes</td><td>+5</td><td>147</td></tr><tr><td>6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T7</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>T7</td><td>Chris74Jones</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>152</td></tr><tr><td>10</td><td>Hoplinkz</td><td>+14</td><td>156</td></tr><tr><td>11</td><td>BigavoLeo</td><td>+31</td><td>173</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Calpe Cup, Carnarvon Dunes W.A (2026-06-19 to 2026-06-25) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>2</td><td>Rendallio</td><td>-11</td><td>133</td></tr><tr><td>T3</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>138</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-4</td><td>140</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>9</td><td>Keep_of_Kalessin</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Polekatt</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Frocklin' Open, Prince's Golf Club (2026-06-26 to 2026-07-02) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-11</td><td>133</td></tr><tr><td>2</td><td>Rendallio</td><td>-7</td><td>137</td></tr><tr><td>3</td><td>WingisBack</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Hendomedes</td><td>-4</td><td>140</td></tr><tr><td>T5</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-3</td><td>141</td></tr><tr><td>7</td><td>Hammers1man</td><td>-2</td><td>142</td></tr><tr><td>8</td><td>Hoplinkz</td><td>-1</td><td>143</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+5</td><td>149</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+13</td><td>157</td></tr><tr><td>11</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Largo Bay Open, Dumbarnie Links (2026-07-03 to 2026-07-09) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>WingisBack</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>x3offthetee</td><td>-4</td><td>140</td></tr><tr><td>T2</td><td>Colly45x</td><td>-4</td><td>140</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Hendomedes</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>7</td><td>Keep_of_Kalessin</td><td>+2</td><td>146</td></tr><tr><td>8</td><td>BigavoLeo</td><td>+13</td><td>157</td></tr><tr><td>9</td><td>Polekatt</td><td>+16</td><td>160</td></tr><tr><td>10</td><td>Guillame_Moreau</td><td>+17</td><td>161</td></tr></table></div>",
-  "date": "2026-07-10 to 2026-07-16",
-  "season": {
     "Tenbobnote": {
       "points": 220,
       "console": "PS",
@@ -544,5 +412,177 @@
       "prevRank": 19
     }
   },
-  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BigavoLeo</td><td>+20</td><td>162</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Burns Cup, Kilmarnock (Barassie Links) G.C (2026-06-05 to 2026-06-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-10</td><td>134</td></tr><tr><td>2</td><td>WingisBack</td><td>-9</td><td>135</td></tr><tr><td>3</td><td>Rendallio</td><td>-8</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T4</td><td>Hoplinkz</td><td>-7</td><td>137</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-5</td><td>139</td></tr><tr><td>7</td><td>Geordieboy85</td><td>-4</td><td>140</td></tr><tr><td>8</td><td>x3offthetee</td><td>E</td><td>144</td></tr><tr><td>9</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+14</td><td>158</td></tr><tr><td>12</td><td>BigavoLeo</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Jakoby Joust, Carnoustie (2026-06-12 to 2026-06-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>3</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Hendomedes</td><td>+5</td><td>147</td></tr><tr><td>6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T7</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>T7</td><td>Chris74Jones</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>152</td></tr><tr><td>10</td><td>Hoplinkz</td><td>+14</td><td>156</td></tr><tr><td>11</td><td>BigavoLeo</td><td>+31</td><td>173</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Calpe Cup, Carnarvon Dunes W.A (2026-06-19 to 2026-06-25) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>2</td><td>Rendallio</td><td>-11</td><td>133</td></tr><tr><td>T3</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>138</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-4</td><td>140</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>9</td><td>Keep_of_Kalessin</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Polekatt</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Frocklin' Open, Prince's Golf Club (2026-06-26 to 2026-07-02) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-11</td><td>133</td></tr><tr><td>2</td><td>Rendallio</td><td>-7</td><td>137</td></tr><tr><td>3</td><td>WingisBack</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Hendomedes</td><td>-4</td><td>140</td></tr><tr><td>T5</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-3</td><td>141</td></tr><tr><td>7</td><td>Hammers1man</td><td>-2</td><td>142</td></tr><tr><td>8</td><td>Hoplinkz</td><td>-1</td><td>143</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+5</td><td>149</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+13</td><td>157</td></tr><tr><td>11</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Largo Bay Open, Dumbarnie Links (2026-07-03 to 2026-07-09) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>WingisBack</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>x3offthetee</td><td>-4</td><td>140</td></tr><tr><td>T2</td><td>Colly45x</td><td>-4</td><td>140</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Hendomedes</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>7</td><td>Keep_of_Kalessin</td><td>+2</td><td>146</td></tr><tr><td>8</td><td>BigavoLeo</td><td>+13</td><td>157</td></tr><tr><td>9</td><td>Polekatt</td><td>+16</td><td>160</td></tr><tr><td>10</td><td>Guillame_Moreau</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Hundrik Shootout, Tres Cypress GC (2026-07-10 to 2026-07-16) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-2</td><td>140</td></tr><tr><td>2</td><td>WingisBack</td><td>E</td><td>142</td></tr><tr><td>3</td><td>x3offthetee</td><td>+16</td><td>158</td></tr><tr><td>4</td><td>Guillame_Moreau</td><td>+27</td><td>169</td></tr></table></div>"
+  "backupHistory": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BigavoLeo</td><td>+20</td><td>162</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Burns Cup, Kilmarnock (Barassie Links) G.C (2026-06-05 to 2026-06-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-10</td><td>134</td></tr><tr><td>2</td><td>WingisBack</td><td>-9</td><td>135</td></tr><tr><td>3</td><td>Rendallio</td><td>-8</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T4</td><td>Hoplinkz</td><td>-7</td><td>137</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-5</td><td>139</td></tr><tr><td>7</td><td>Geordieboy85</td><td>-4</td><td>140</td></tr><tr><td>8</td><td>x3offthetee</td><td>E</td><td>144</td></tr><tr><td>9</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+14</td><td>158</td></tr><tr><td>12</td><td>BigavoLeo</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Jakoby Joust, Carnoustie (2026-06-12 to 2026-06-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>3</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Hendomedes</td><td>+5</td><td>147</td></tr><tr><td>6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T7</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>T7</td><td>Chris74Jones</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>152</td></tr><tr><td>10</td><td>Hoplinkz</td><td>+14</td><td>156</td></tr><tr><td>11</td><td>BigavoLeo</td><td>+31</td><td>173</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Calpe Cup, Carnarvon Dunes W.A (2026-06-19 to 2026-06-25) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>2</td><td>Rendallio</td><td>-11</td><td>133</td></tr><tr><td>T3</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>138</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-4</td><td>140</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>9</td><td>Keep_of_Kalessin</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Polekatt</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Frocklin' Open, Prince's Golf Club (2026-06-26 to 2026-07-02) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-11</td><td>133</td></tr><tr><td>2</td><td>Rendallio</td><td>-7</td><td>137</td></tr><tr><td>3</td><td>WingisBack</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Hendomedes</td><td>-4</td><td>140</td></tr><tr><td>T5</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-3</td><td>141</td></tr><tr><td>7</td><td>Hammers1man</td><td>-2</td><td>142</td></tr><tr><td>8</td><td>Hoplinkz</td><td>-1</td><td>143</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+5</td><td>149</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+13</td><td>157</td></tr><tr><td>11</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Largo Bay Open, Dumbarnie Links (2026-07-03 to 2026-07-09) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>WingisBack</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>x3offthetee</td><td>-4</td><td>140</td></tr><tr><td>T2</td><td>Colly45x</td><td>-4</td><td>140</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Hendomedes</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>7</td><td>Keep_of_Kalessin</td><td>+2</td><td>146</td></tr><tr><td>8</td><td>BigavoLeo</td><td>+13</td><td>157</td></tr><tr><td>9</td><td>Polekatt</td><td>+16</td><td>160</td></tr><tr><td>10</td><td>Guillame_Moreau</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Hundrik Shootout, Tres Cypress GC (2026-07-10 to 2026-07-16) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-2</td><td>140</td></tr><tr><td>2</td><td>WingisBack</td><td>E</td><td>142</td></tr><tr><td>3</td><td>x3offthetee</td><td>+16</td><td>158</td></tr><tr><td>4</td><td>Guillame_Moreau</td><td>+27</td><td>169</td></tr></table></div>",
+  "date": "2026-07-17 to 2026-07-23",
+  "season": {
+    "Tenbobnote": {
+      "points": 220,
+      "console": "PS",
+      "eventsPlayed": 1,
+      "wins": 1,
+      "acc": -10,
+      "prevRank": 1
+    },
+    "WingisBack": {
+      "points": 1270,
+      "console": "PS",
+      "eventsPlayed": 6,
+      "wins": 2,
+      "acc": -38,
+      "prevRank": 3
+    },
+    "Horusphoenix": {
+      "points": 1115,
+      "console": "Xbox",
+      "eventsPlayed": 5,
+      "wins": 2,
+      "acc": -44,
+      "prevRank": 4
+    },
+    "Colly45x": {
+      "points": 1485,
+      "console": "Xbox",
+      "eventsPlayed": 7,
+      "wins": 2,
+      "acc": -60,
+      "prevRank": 1
+    },
+    "Keep_of_Kalessin": {
+      "points": 550,
+      "console": "PS",
+      "eventsPlayed": 5,
+      "wins": 1,
+      "acc": 5,
+      "prevRank": 7
+    },
+    "Rendallio": {
+      "points": 1120,
+      "console": "PS",
+      "eventsPlayed": 6,
+      "wins": 0,
+      "acc": -47,
+      "prevRank": 2
+    },
+    "x3offthetee": {
+      "points": 965,
+      "console": "Xbox",
+      "eventsPlayed": 9,
+      "wins": 0,
+      "acc": 21,
+      "prevRank": 5
+    },
+    "Mr Longpole": {
+      "points": 200,
+      "console": "Xbox",
+      "eventsPlayed": 3,
+      "wins": 0,
+      "acc": 7,
+      "prevRank": 14
+    },
+    "Hoplinkz": {
+      "points": 480,
+      "console": "PS",
+      "eventsPlayed": 6,
+      "wins": 0,
+      "acc": 8,
+      "prevRank": 10
+    },
+    "BigavoLeo": {
+      "points": 280,
+      "console": "Xbox",
+      "eventsPlayed": 6,
+      "wins": 0,
+      "acc": 95,
+      "prevRank": 15
+    },
+    "Hammers1man": {
+      "points": 320,
+      "console": "PC",
+      "eventsPlayed": 5,
+      "wins": 0,
+      "acc": 14,
+      "prevRank": 13
+    },
+    "Polekatt": {
+      "points": 250,
+      "console": "PC",
+      "eventsPlayed": 6,
+      "wins": 0,
+      "acc": 115,
+      "prevRank": 14
+    },
+    "Geordieboy85": {
+      "points": 170,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": -4,
+      "prevRank": 8
+    },
+    "Hendomedes": {
+      "points": 840,
+      "console": "Xbox",
+      "eventsPlayed": 6,
+      "wins": 0,
+      "acc": -7,
+      "prevRank": 6
+    },
+    "Chris74Jones": {
+      "points": 130,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 13,
+      "prevRank": 16
+    },
+    "Bullfrog_Leg": {
+      "points": 530,
+      "console": "PS",
+      "eventsPlayed": 5,
+      "wins": 0,
+      "acc": -12,
+      "prevRank": 8
+    },
+    "SlimmerShady": {
+      "points": 80,
+      "console": "PS",
+      "eventsPlayed": 2,
+      "wins": 0,
+      "acc": 23,
+      "prevRank": 18
+    },
+    "GbWaCkErGuY": {
+      "points": 1080,
+      "console": "Xbox",
+      "eventsPlayed": 4,
+      "wins": 3,
+      "acc": -28,
+      "prevRank": 7
+    },
+    "Guillame_Moreau": {
+      "points": 260,
+      "console": "PC",
+      "eventsPlayed": 3,
+      "wins": 0,
+      "acc": 50,
+      "prevRank": 17
+    },
+    "Cockatoos": {
+      "points": 180,
+      "console": "PC",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 0,
+      "prevRank": 20
+    },
+    "Demonondalinks": {
+      "points": 60,
+      "console": "Xbox",
+      "eventsPlayed": 1,
+      "wins": 0,
+      "acc": 15,
+      "prevRank": 20
+    }
+  },
+  "history": "<div class=\"history-header\" onclick=\"toggleHistory(this)\">The Skeggy Shield, Seacroft Golf Club (2026-05-22 to 2026-05-28) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>T1</td><td>Tenbobnote</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>WingisBack</td><td>-10</td><td>132</td></tr><tr><td>T1</td><td>Horusphoenix</td><td>-10</td><td>132</td></tr><tr><td>4</td><td>Colly45x</td><td>-8</td><td>134</td></tr><tr><td>T5</td><td>Keep_of_Kalessin</td><td>-6</td><td>136</td></tr><tr><td>T5</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>T7</td><td>x3offthetee</td><td>-5</td><td>137</td></tr><tr><td>T7</td><td>Mr Longpole</td><td>-5</td><td>137</td></tr><tr><td>9</td><td>Hoplinkz</td><td>-1</td><td>141</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+4</td><td>146</td></tr><tr><td>11</td><td>Hammers1man</td><td>+5</td><td>147</td></tr><tr><td>12</td><td>Polekatt</td><td>+22</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Chimmi Classic, Old Carrick Links (2026-05-29 to 2026-06-04) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-17</td><td>125</td></tr><tr><td>2</td><td>Horusphoenix</td><td>-14</td><td>128</td></tr><tr><td>3</td><td>Rendallio</td><td>-9</td><td>133</td></tr><tr><td>T4</td><td>Geordieboy85</td><td>E</td><td>142</td></tr><tr><td>T4</td><td>Hendomedes</td><td>E</td><td>142</td></tr><tr><td>6</td><td>x3offthetee</td><td>+2</td><td>144</td></tr><tr><td>7</td><td>Hammers1man</td><td>+3</td><td>145</td></tr><tr><td>8</td><td>Chris74Jones</td><td>+4</td><td>146</td></tr><tr><td>9</td><td>BigavoLeo</td><td>+20</td><td>162</td></tr><tr><td>10</td><td>Polekatt</td><td>+24</td><td>166</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Burns Cup, Kilmarnock (Barassie Links) G.C (2026-06-05 to 2026-06-11) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Keep_of_Kalessin</td><td>-10</td><td>134</td></tr><tr><td>2</td><td>WingisBack</td><td>-9</td><td>135</td></tr><tr><td>3</td><td>Rendallio</td><td>-8</td><td>136</td></tr><tr><td>T4</td><td>Colly45x</td><td>-7</td><td>137</td></tr><tr><td>T4</td><td>Hoplinkz</td><td>-7</td><td>137</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-5</td><td>139</td></tr><tr><td>7</td><td>Geordieboy85</td><td>-4</td><td>140</td></tr><tr><td>8</td><td>x3offthetee</td><td>E</td><td>144</td></tr><tr><td>9</td><td>Hammers1man</td><td>+1</td><td>145</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+10</td><td>154</td></tr><tr><td>11</td><td>Polekatt</td><td>+14</td><td>158</td></tr><tr><td>12</td><td>BigavoLeo</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Jakoby Joust, Carnoustie (2026-06-12 to 2026-06-18) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Horusphoenix</td><td>-8</td><td>134</td></tr><tr><td>2</td><td>Rendallio</td><td>-6</td><td>136</td></tr><tr><td>3</td><td>Colly45x</td><td>-3</td><td>139</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>+3</td><td>145</td></tr><tr><td>5</td><td>Hendomedes</td><td>+5</td><td>147</td></tr><tr><td>6</td><td>Mr Longpole</td><td>+7</td><td>149</td></tr><tr><td>T7</td><td>Keep_of_Kalessin</td><td>+9</td><td>151</td></tr><tr><td>T7</td><td>Chris74Jones</td><td>+9</td><td>151</td></tr><tr><td>9</td><td>x3offthetee</td><td>+10</td><td>152</td></tr><tr><td>10</td><td>Hoplinkz</td><td>+14</td><td>156</td></tr><tr><td>11</td><td>BigavoLeo</td><td>+31</td><td>173</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Calpe Cup, Carnarvon Dunes W.A (2026-06-19 to 2026-06-25) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>Colly45x</td><td>-16</td><td>128</td></tr><tr><td>2</td><td>Rendallio</td><td>-11</td><td>133</td></tr><tr><td>T3</td><td>Horusphoenix</td><td>-8</td><td>136</td></tr><tr><td>T3</td><td>Hendomedes</td><td>-8</td><td>136</td></tr><tr><td>5</td><td>GbWaCkErGuY</td><td>-6</td><td>138</td></tr><tr><td>6</td><td>Bullfrog_Leg</td><td>-4</td><td>140</td></tr><tr><td>T7</td><td>x3offthetee</td><td>+2</td><td>146</td></tr><tr><td>T7</td><td>Hoplinkz</td><td>+2</td><td>146</td></tr><tr><td>9</td><td>Keep_of_Kalessin</td><td>+10</td><td>154</td></tr><tr><td>10</td><td>Polekatt</td><td>+19</td><td>163</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Frocklin' Open, Prince's Golf Club (2026-06-26 to 2026-07-02) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-11</td><td>133</td></tr><tr><td>2</td><td>Rendallio</td><td>-7</td><td>137</td></tr><tr><td>3</td><td>WingisBack</td><td>-5</td><td>139</td></tr><tr><td>4</td><td>Hendomedes</td><td>-4</td><td>140</td></tr><tr><td>T5</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>T5</td><td>x3offthetee</td><td>-3</td><td>141</td></tr><tr><td>7</td><td>Hammers1man</td><td>-2</td><td>142</td></tr><tr><td>8</td><td>Hoplinkz</td><td>-1</td><td>143</td></tr><tr><td>9</td><td>Mr Longpole</td><td>+5</td><td>149</td></tr><tr><td>10</td><td>SlimmerShady</td><td>+13</td><td>157</td></tr><tr><td>11</td><td>Polekatt</td><td>+20</td><td>164</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">Largo Bay Open, Dumbarnie Links (2026-07-03 to 2026-07-09) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>WingisBack</td><td>-8</td><td>136</td></tr><tr><td>T2</td><td>x3offthetee</td><td>-4</td><td>140</td></tr><tr><td>T2</td><td>Colly45x</td><td>-4</td><td>140</td></tr><tr><td>4</td><td>Bullfrog_Leg</td><td>-3</td><td>141</td></tr><tr><td>5</td><td>Hendomedes</td><td>-2</td><td>142</td></tr><tr><td>6</td><td>Hoplinkz</td><td>+1</td><td>145</td></tr><tr><td>7</td><td>Keep_of_Kalessin</td><td>+2</td><td>146</td></tr><tr><td>8</td><td>BigavoLeo</td><td>+13</td><td>157</td></tr><tr><td>9</td><td>Polekatt</td><td>+16</td><td>160</td></tr><tr><td>10</td><td>Guillame_Moreau</td><td>+17</td><td>161</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Hundrik Shootout, Tres Cypress GC (2026-07-10 to 2026-07-16) </div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-2</td><td>140</td></tr><tr><td>2</td><td>WingisBack</td><td>E</td><td>142</td></tr><tr><td>3</td><td>x3offthetee</td><td>+16</td><td>158</td></tr><tr><td>4</td><td>Guillame_Moreau</td><td>+27</td><td>169</td></tr></table></div><div class=\"history-header\" onclick=\"toggleHistory(this)\">The Claret Jug, Royal Birkdale (2026-07-17 to 2026-07-23) 🏆</div><div class=\"history-content\"><table><tr><th>Pos</th><th>Player</th><th>Par</th><th>Tot</th></tr><tr><td>1</td><td>GbWaCkErGuY</td><td>-9</td><td>131</td></tr><tr><td>2</td><td>WingisBack</td><td>-6</td><td>134</td></tr><tr><td>3</td><td>Colly45x</td><td>-5</td><td>135</td></tr><tr><td>4</td><td>Horusphoenix</td><td>-4</td><td>136</td></tr><tr><td>5</td><td>Cockatoos</td><td>E</td><td>140</td></tr><tr><td>6</td><td>Hendomedes</td><td>+2</td><td>142</td></tr><tr><td>7</td><td>x3offthetee</td><td>+3</td><td>143</td></tr><tr><td>8</td><td>Guillame_Moreau</td><td>+6</td><td>146</td></tr><tr><td>9</td><td>Hammers1man</td><td>+7</td><td>147</td></tr><tr><td>10</td><td>BigavoLeo</td><td>+8</td><td>148</td></tr><tr><td>11</td><td>Demonondalinks</td><td>+15</td><td>155</td></tr></table></div>"
 }
